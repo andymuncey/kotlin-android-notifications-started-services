@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="alert_me">Alert Me</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="channelName">Reminders</string>
+    <string name="channelDescription">Reminders you\'ve added</string>
+</resources>
